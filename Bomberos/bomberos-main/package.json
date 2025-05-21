@@ -1,0 +1,16 @@
+{
+  "name": "material-bootstrap-wizard-master",
+  "version": "1.0.0",
+  "description": "![alt text](http://s3.amazonaws.com/creativetim_bucket/products/48/original/opt_mbw_thumbnail.jpg?1472405077)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-connect-php": "^1.0.3"
+  }
+}
